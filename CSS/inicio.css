@@ -1,0 +1,28 @@
+body
+{
+    background-color: #fbccd1
+}
+h1
+{
+    text-align: center
+}
+#imagen1
+{
+    width:150 px; height:200px;
+    float: left;
+}
+#imagen2
+{
+    width:150 px; height:200px;
+    float: center;
+}
+#imagen3
+{
+    width:150 px; height:200px;
+    float: left;
+}
+#imagen4
+{
+    width:150 px; height:200px;
+    float: center;
+}
